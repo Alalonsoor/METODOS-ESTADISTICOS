@@ -44,9 +44,9 @@ Para ejecutar este proyecto, asegúrate de tener instaladas las siguientes bibli
 
 Para instalarlas, ejecuta:
 
-```bash
-pip install pandas numpy matplotlib seaborn scikit-learn xgboost tensorflow
-
+   ```bash
+   pip install pandas numpy matplotlib seaborn scikit-learn xgboost tensorflow
+   ```
 ## Uso
 
 Para ejecutar el proyecto, sigue estos pasos:
@@ -55,11 +55,11 @@ Para ejecutar el proyecto, sigue estos pasos:
 
    ```bash
    git clone https://github.com/usuario/proyecto-esperanza-vida.git
-
+   ```
 2. Navega al directorio del proyecto:
   ```bash
   cd proyecto-esperanza-vida
-
+   ```
 3. Ejecuta el script principal:
   R CÓDIGO PROYECTO DATOS - ÁLVARO ALONSO & ÓSCAR MARÍN.R
 
@@ -75,7 +75,7 @@ proyecto-esperanza-vida/
 ├── models/               # Modelos entrenados
 ├── results/              # Gráficos y reportes de resultados
 └── README.md             # Este archivo
-
+```
 ## Conjunto de Datos
 
 El conjunto de datos utilizado contiene información sobre:
