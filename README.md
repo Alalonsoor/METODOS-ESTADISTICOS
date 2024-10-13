@@ -61,8 +61,9 @@ Para ejecutar el proyecto, sigue estos pasos:
   cd proyecto-esperanza-vida
    ```
 3. Ejecuta el script principal:
+  ```bash
   R CÓDIGO PROYECTO DATOS - ÁLVARO ALONSO & ÓSCAR MARÍN.R
-
+   ```
 ## Estructura del Repositorio
 
 El proyecto está organizado en la siguiente estructura de carpetas:
